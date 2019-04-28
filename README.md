@@ -17,6 +17,20 @@ F1 will Ping Mozam, even when there is no Mozam. Don't be annoying or I'll delet
 
 
 
+# How do I use these?
+First, go to game properties on origin(must be closed out of the game)
+<img src="https://i.imgur.com/twr3GFX.png"
+     alt="https://i.imgur.com/twr3GFX.png"
+     style="float: left; margin-right: 10px;" />
+
+
+
+
+Now and edit your launch commands. To use the commands simply just add in **+exec autoexec**, but if you want to try and force fullscreen(the game hates it), add the second, and if you dont want vsync, then the third.
+<img src="https://i.imgur.com/ZzJWKGN.png"
+     alt="https://i.imgur.com/ZzJWKGN.png"
+     style="float: left; margin-right: 10px;" />
+
 
 
 ## autoexec.cfg
