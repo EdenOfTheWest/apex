@@ -31,7 +31,7 @@ Now and edit your launch commands. To use the commands simply just add in **+exe
      alt="https://i.imgur.com/ZzJWKGN.png"
      style="float: left; margin-right: 10px;" />
 
-
+Boom, magic. you did it. Now find where you installed your game. Mine is located in **G:\Origin Games\Apex\cfg** mine is located on an SSD dedicated to my games. From here, there is a cfg folder, this is where you will place the file(s).
 
 ## autoexec.cfg
 This is what's needed for all the other .cfg's. This is the main tweak file, most of this stuff has comments. It decreases graphics by removing/lowering some stuff and not really needed effects such as disabling water splash particles, water reflections, etc. It compresses packets and sends them out faster, disables Ragdolls(if you want, you can even tweak this to make bodies flop around... but why?) This also disables some fog, shadows of certain objects(like ropes/ziplines) and lighting, such as flares, particles, dynamics and volumetric. This also boost's performance of some systems by enabling multithreading. As said, read through this one, ESPECIALLY.
